@@ -190,7 +190,7 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.1</version>
                 <configuration>
-                    <path>/cm3</path>
+                    <path>/opentest</path>
                     <url>http://localhost:8080/manager/text</url>
                     <username>tomcat</username>
                     <password>tomcat</password>
